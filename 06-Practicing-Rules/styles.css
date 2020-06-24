@@ -1,0 +1,15 @@
+body{
+    background: http://assets.breatheco.de/apis/img/bg/background-vertical.jpg repeat-y;
+    padding-left: 20px;
+  
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+}
